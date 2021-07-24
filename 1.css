@@ -1,0 +1,66 @@
+.name{
+    margin-left: 25px;
+}
+.email{
+    margin-left: 7px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.margin{
+    margin-left: 80px;
+}
+.size{
+    font-size: 18px;
+}
+.hed{
+    font-size: 30px;
+    margin-top: 50px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: rgb(22, 6, 248);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #087ce9;
+    color: white;
+  }
+  .info {
+    width: 100%;
+    height: 390px;
+    background: rgb(0, 0, 0);
+}
+    #about1{
+        margin-left: 350px;
+        font-size: 35px;
+        font-style: italic;
+        font-weight: bolder;
+        margin-top: 50px;
+        color: rgb(169, 238, 91);
+    }
+    #img{
+    
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 350px;
+    
+    }
